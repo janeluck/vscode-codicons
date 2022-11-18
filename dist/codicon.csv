@@ -59,6 +59,7 @@ circle-small,,EC07
 circle,,EABC
 circuit-board,,EABE
 clear-all,,EABF
+click,,F101
 clippy,,EAC0
 close-all,,EAC1
 close,,EA76
@@ -123,6 +124,7 @@ diff-removed,,EADF
 diff-renamed,,EAE0
 diff,,EAE1
 discard,,EAE2
+double-click,,F102
 edit,,EA73
 editor-layout,,EAE3
 ellipsis,,EA7C
@@ -191,6 +193,7 @@ inbox,,EB09
 indent,,EBF9
 info,,EA74
 inspect,,EBD1
+install,,F103
 issue-draft,,EBD9
 issue-reopened,,EB0B
 issues,,EB0C
@@ -235,6 +238,8 @@ loading,,EB19
 location,,EB1A
 lock-small,,EBE7
 lock,,EA75
+login,,F104
+long-click,,F105
 magnet,,EBAE
 mail-read,,EB1B
 mail,,EB1C
@@ -280,7 +285,7 @@ preview,,EB2F
 primitive-square,,EA72
 project,,EB30
 pulse,,EB31
-qq,,F101
+qq,,F106
 question,,EB32
 quote,,EB33
 radio-tower,,EB34
@@ -397,6 +402,7 @@ type-hierarchy-super,,EBBB
 type-hierarchy,,EBB9
 unfold,,EB73
 ungroup-by-ref-type,,EB98
+uninstall,,F107
 unlock,,EB74
 unmute,,EB75
 unverified,,EB76
@@ -409,10 +415,12 @@ vm-connect,,EBA9
 vm-outline,,EB7A
 vm-running,,EB7B
 vm,,EA7A
+volume-down,,F108
+volume-up,,F109
 wand,,EBCF
 warning,,EA6C
 watch,,EB7C
-wechat,,F102
+wechat,,F10A
 whitespace,,EB7D
 whole-word,,EB7E
 window,,EB7F
