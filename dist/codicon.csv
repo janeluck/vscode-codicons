@@ -125,7 +125,8 @@ diff-removed,,EADF
 diff-renamed,,EAE0
 diff,,EAE1
 discard,,EAE2
-double-click,,F102
+document,,F102
+double-click,,F103
 edit,,EA73
 editor-layout,,EAE3
 ellipsis,,EA7C
@@ -195,7 +196,7 @@ indent,,EBF9
 info,,EA74
 insert,,EC11
 inspect,,EBD1
-install,,F103
+install,,F104
 issue-draft,,EBD9
 issue-reopened,,EB0B
 issues,,EB0C
@@ -204,6 +205,7 @@ jersey,,EB0E
 json,,EB0F
 kebab-vertical,,EB10
 key,,EB11
+launch,,F105
 law,,EB12
 layers-active,,EBD4
 layers-dot,,EBD3
@@ -240,8 +242,8 @@ loading,,EB19
 location,,EB1A
 lock-small,,EBE7
 lock,,EA75
-login,,F104
-long-click,,F105
+login,,F106
+long-click,,F107
 magnet,,EBAE
 mail-read,,EB1B
 mail,,EB1C
@@ -287,7 +289,7 @@ preview,,EB2F
 primitive-square,,EA72
 project,,EB30
 pulse,,EB31
-qq,,F106
+qq,,F108
 question,,EB32
 quote,,EB33
 radio-tower,,EB34
@@ -337,6 +339,7 @@ server,,EB50
 settings-gear,,EB51
 settings,,EB52
 shield,,EB53
+shortcut,,F109
 sign-in,,EA6F
 sign-out,,EA6E
 smiley,,EB54
@@ -350,6 +353,7 @@ star-empty,,EA6A
 star-full,,EB59
 star-half,,EB5A
 stop-circle,,EBA5
+swipe-right,,F10A
 symbol-array,,EA8A
 symbol-boolean,,EA8F
 symbol-class,,EB5B
@@ -406,7 +410,8 @@ type-hierarchy-super,,EBBB
 type-hierarchy,,EBB9
 unfold,,EB73
 ungroup-by-ref-type,,EB98
-uninstall,,F107
+uninstall-app,,F10B
+uninstall,,F10C
 unlock,,EB74
 unmute,,EB75
 unverified,,EB76
@@ -419,12 +424,12 @@ vm-connect,,EBA9
 vm-outline,,EB7A
 vm-running,,EB7B
 vm,,EA7A
-volume-down,,F108
-volume-up,,F109
+volume-down,,F10D
+volume-up,,F10E
 wand,,EBCF
 warning,,EA6C
 watch,,EB7C
-wechat,,F10A
+wechat,,F10F
 whitespace,,EB7D
 whole-word,,EB7E
 window,,EB7F

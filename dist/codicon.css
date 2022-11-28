@@ -6,7 +6,7 @@
 @font-face {
 	font-family: "codicon";
 	font-display: block;
-	src: url("./codicon.ttf?4bb2f787a2b81b96dfcde640274113e6") format("truetype");
+	src: url("./codicon.ttf?37649894842f9a07a10fc9066648a433") format("truetype");
 }
 
 .codicon[class*='codicon-'] {
@@ -577,12 +577,17 @@
 .codicon-git-pull-request-new-changes:before { content: "\ec0c" }
 .codicon-search-fuzzy:before { content: "\ec0d" }
 .codicon-click:before { content: "\f101" }
-.codicon-double-click:before { content: "\f102" }
-.codicon-install:before { content: "\f103" }
-.codicon-login:before { content: "\f104" }
-.codicon-long-click:before { content: "\f105" }
-.codicon-qq:before { content: "\f106" }
-.codicon-uninstall:before { content: "\f107" }
-.codicon-volume-down:before { content: "\f108" }
-.codicon-volume-up:before { content: "\f109" }
-.codicon-wechat:before { content: "\f10a" }
+.codicon-document:before { content: "\f102" }
+.codicon-double-click:before { content: "\f103" }
+.codicon-install:before { content: "\f104" }
+.codicon-launch:before { content: "\f105" }
+.codicon-login:before { content: "\f106" }
+.codicon-long-click:before { content: "\f107" }
+.codicon-qq:before { content: "\f108" }
+.codicon-shortcut:before { content: "\f109" }
+.codicon-swipe-right:before { content: "\f10a" }
+.codicon-uninstall-app:before { content: "\f10b" }
+.codicon-uninstall:before { content: "\f10c" }
+.codicon-volume-down:before { content: "\f10d" }
+.codicon-volume-up:before { content: "\f10e" }
+.codicon-wechat:before { content: "\f10f" }
