@@ -6,7 +6,7 @@
 @font-face {
 	font-family: "codicon";
 	font-display: block;
-	src: url("./codicon.ttf?37f4153dafeac96414532106b6534e9e") format("truetype");
+	src: url("./codicon.ttf?4f834229c4198bc536f6344ad09c0c57") format("truetype");
 }
 
 .codicon[class*='codicon-'] {
@@ -580,24 +580,27 @@
 .codicon-send:before { content: "\ec0f" }
 .codicon-sparkle:before { content: "\ec10" }
 .codicon-insert:before { content: "\ec11" }
-.codicon-click:before { content: "\f101" }
-.codicon-coordinate:before { content: "\f102" }
-.codicon-document:before { content: "\f103" }
-.codicon-double-click:before { content: "\f104" }
-.codicon-equals:before { content: "\f105" }
-.codicon-install:before { content: "\f106" }
-.codicon-launch:before { content: "\f107" }
-.codicon-login:before { content: "\f108" }
-.codicon-long-click:before { content: "\f109" }
-.codicon-not-equal:before { content: "\f10a" }
-.codicon-qq:before { content: "\f10b" }
-.codicon-screencut:before { content: "\f10c" }
-.codicon-shortcut:before { content: "\f10d" }
-.codicon-swipe-right:before { content: "\f10e" }
-.codicon-uninstall-app:before { content: "\f10f" }
-.codicon-uninstall:before { content: "\f110" }
-.codicon-unrealengine:before { content: "\f111" }
-.codicon-volume-down:before { content: "\f112" }
-.codicon-volume-up:before { content: "\f113" }
-.codicon-wait:before { content: "\f114" }
-.codicon-wechat:before { content: "\f115" }
+.codicon-android:before { content: "\f101" }
+.codicon-click:before { content: "\f102" }
+.codicon-coordinate:before { content: "\f103" }
+.codicon-document:before { content: "\f104" }
+.codicon-double-click:before { content: "\f105" }
+.codicon-equals:before { content: "\f106" }
+.codicon-install:before { content: "\f107" }
+.codicon-ios:before { content: "\f108" }
+.codicon-launch:before { content: "\f109" }
+.codicon-login:before { content: "\f10a" }
+.codicon-long-click:before { content: "\f10b" }
+.codicon-not-equal:before { content: "\f10c" }
+.codicon-qq:before { content: "\f10d" }
+.codicon-screencut:before { content: "\f10e" }
+.codicon-shortcut:before { content: "\f10f" }
+.codicon-swipe-right:before { content: "\f110" }
+.codicon-uninstall-app:before { content: "\f111" }
+.codicon-uninstall:before { content: "\f112" }
+.codicon-unrealengine:before { content: "\f113" }
+.codicon-usb:before { content: "\f114" }
+.codicon-volume-down:before { content: "\f115" }
+.codicon-volume-up:before { content: "\f116" }
+.codicon-wait:before { content: "\f117" }
+.codicon-wechat:before { content: "\f118" }
